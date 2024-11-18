@@ -1,0 +1,40 @@
+.navigation {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.navigation li {
+  display: inline;
+  margin-right: 10px;
+}
+
+.navigation a {
+  text-decoration: none;
+  color: black;
+}
+
+#special-offer {
+  background-color: yellow;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+#special-offer h2 {
+  color: red;
+}
+
+.input-field {
+  border: 1px solid #ddd;
+  margin-bottom: 10px;
+  padding: 8px 15px;
+  width: 200px;
+}
+
+.submit-button {
+  background-color: blue;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  cursor: pointer;
+}
